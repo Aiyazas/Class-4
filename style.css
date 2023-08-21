@@ -1,0 +1,20 @@
+h1{
+    color: rgba(235, 7, 98, 0.992);
+    background-color:hsl(38, 44%, 85%);
+   text-align:left;
+   width: 100vw;
+   text-decoration: underline;
+   text-decoration-style:double;
+   text-decoration-color:rgb(6, 120, 122);   font-size: 60px;
+    }
+a{
+    color:black;
+}
+p{  
+    font-size: 20px;
+    text-align: justify;
+    text-decoration: underline;
+    line-height: 1.4;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', sans-serif;
+
+}
